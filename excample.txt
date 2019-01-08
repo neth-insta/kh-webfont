@@ -1,0 +1,5 @@
+﻿<span style="font-family: Kh Freehand;">ពុម្ពអក្សរខ្មែរ</span>
+<span style="font-family: Kh Metal Chrieng;">ពុម្ពអក្សរខ្មែរ</span>
+<span style="font-family: Kh Bokor;">ពុម្ពអក្សរខ្មែរ</span>
+<span style="font-family: Khmer Os Battambang;">ពុម្ពអក្សរខ្មែរ</span>
+<span style="font-family: Hanuman;">ពុម្ពអក្សរខ្មែរ</span>

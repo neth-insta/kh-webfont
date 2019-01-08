@@ -1,0 +1,32 @@
+@font-face {
+ font-family: "Kh Metal Chrieng";
+ font-style: normal;
+ font-weight: normal; src: local("Kh Metal Chrieng"), url("/fonts/Kh-Metal-Chrieng.woff") format("woff"), url("/fonts/Kh-Metal-Chrieng.ttf") format("truetype"), url("/fonts/Kh-Metal-Chrieng.svg") format("svg");
+}
+@font-face {
+ font-family: "Kh Freehand";
+ font-style: normal;
+ font-weight: normal;
+ src: local("Kh Freehand"), url("/fonts/Kh-Freehand.woff")format("woff"), url("/fonts/Kh-Freehand.ttf") format("truetype"), url("/fonts/Kh-Freehand.svg") format("svg");
+}
+@font-face {
+ font-family: "Kh Bokor";
+ font-style: normal;
+ font-weight: normal;
+ src: local("Kh Bokor"), url("/fonts/Kh-Bokor.woff") format("woff"), url("/fonts/Kh-Bokor.ttf") format("truetype"), url("/fonts/Kh-Bokor.svg") format("svg");
+}
+
+@font-face {
+ font-family: "Khmer Os Battambang";
+ font-style: normal;
+ font-weight: normal;
+ src: local("Khmer Os Battambang"), url("/fonts/KhmerOSbattambang.woff") format
+
+("woff"), url("/fonts/KhmerOSbattambang.ttf") format("truetype");
+}
+@font-face {
+ font-family: "Hanuman";
+ font-style: normal;
+ font-weight: 400;
+ src: local("Hanuman"), url("/font/Hanuman/Hanuman.woff")format("woff"), url("/font/Hanuman/Hanuman.ttf") format("truetype"), url("/font/Hanuman/Hanuman.svg") format("svg");
+}
